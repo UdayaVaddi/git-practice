@@ -48,4 +48,4 @@ This repository is connected to `https://github.com/UdayaVaddi/git-practice.git`
 
 3. On GitHub, open **Settings → Pages**.
 4. Under **Build and deployment**, choose **Deploy from a branch**, select **main** and **/(root)**, then click **Save**.
-5. After deployment, GitHub shows the site URL in **Settings → Pages**. For this repository it will usually be <https://udayavaddi.github.io/git-practice/>.
+5. After deployment, GitHub shows the site URL in **Settings → Pages**. For this repository it will usually be <https://udayavaddi.github.io/Portfolio>.
