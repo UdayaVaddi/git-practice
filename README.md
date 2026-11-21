@@ -10,8 +10,6 @@ From this folder, start a local web server:
 python3 -m http.server 8000
 ```
 
-Open <http://127.0.0.1:8000/> in a browser. Stop the server with **Control+C** in its terminal.
-
 ## Site sections
 
 - Full-name introduction centered on transferable machine-learning and business problem-solving capabilities.
